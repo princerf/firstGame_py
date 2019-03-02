@@ -1,6 +1,6 @@
 # firstGame_py
 My first python project
 
-ohhh
+for run program, run main.py
 
-edited by CLI
+in linux: > python main.py
